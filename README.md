@@ -1,2 +1,2 @@
 # tehtarik3
-tea testnet will be jp
+the repository of tea project 
